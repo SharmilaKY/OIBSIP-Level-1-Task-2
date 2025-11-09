@@ -1,20 +1,22 @@
-Landing Page
+Portfolio Website
+This is a personal portfolio website built using HTML, CSS, and JavaScript.
+It showcases projects, skills, and contact information in a clean and simple layout.
 
-This is a simple and responsive landing page built using HTML, CSS, and JavaScript.
-It includes a clean layout, basic styling, and sections that can be easily customized.
+How to Use
+Open index.html in your browser to view the portfolio.
 
 Features
 Responsive design
-Clean and simple UI
-Easy to edit and customize
+Projects section
+About section
+Contact section
+Easy to customize
 
-How to Use
-Download or clone the project.
-Open the index.html file in your browser.
-Customize the text, images, and styles as needed.
-
-Files Included
+Files
 index.html
 style.css
-script.js (optional)
-assets/ folder for images and icons
+script.js
+assets/ (images, icons)
+
+Customization
+Edit the HTML and CSS files to update your name, bio, projects, and images.
